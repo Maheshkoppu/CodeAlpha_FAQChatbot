@@ -41,7 +41,6 @@ It uses Natural Language Processing (NLP), TF-IDF, cosine similarity, fuzzy matc
 CodeAlpha_FAQChatbot/
 │
 ├── backend/
-│   ├── venv/
 │   ├── app.py
 │   ├── faq_data.json
 │   └── requirements.txt
