@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "question": "What is your name?",
+    "answer": "I am the CodeAlpha AI-powered FAQ Chatbot. I am here to answer your questions."
+  },
+  {
+    "id": 2,
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is an organization that provides internship opportunities and practical project experience."
+  },
+  {
+    "id": 3,
+    "question": "How can I register?",
+    "answer": "You can register by visiting the official website and completing the registration form."
+  },
+  {
+    "id": 4,
+    "question": "What internships are available?",
+    "answer": "Internship opportunities may be available in Artificial Intelligence, Machine Learning, Web Development and other domains."
+  },
+  {
+    "id": 5,
+    "question": "How can I contact support?",
+    "answer": "You can contact the support team through the official CodeAlpha website."
+  },
+  {
+    "id": 6,
+    "question": "Is the internship free?",
+    "answer": "Please check the official internship announcement for registration fees and other terms."
+  },
+  {
+    "id": 7,
+    "question": "How do I submit my project?",
+    "answer": "Follow the project submission instructions provided by your internship coordinator."
+  },
+  {
+    "id": 8,
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence is a technology that enables computers to perform tasks that normally require human intelligence."
+  }
+  ,
+{
+  "id": 9,
+  "question": "How long is the internship?",
+  "answer": "The internship duration depends on the batch and program details mentioned in your official internship announcement."
+},
+{
+  "id": 10,
+  "question": "Will I receive an internship certificate?",
+  "answer": "Please check your internship guidelines for certificate eligibility and completion requirements."
+},
+{
+  "id": 11,
+  "question": "What is the project submission deadline?",
+  "answer": "You can find your project submission deadline in the internship instructions or communication from your coordinator."
+},
+{
+  "id": 12,
+  "question": "Can I complete projects individually?",
+  "answer": "Please follow the individual or team project requirements mentioned in your internship guidelines."
+},
+{
+  "id": 13,
+  "question": "What happens after completing the internship?",
+  "answer": "After completing the required tasks, follow the final evaluation and certificate instructions provided by your coordinator."
+},
+{
+  "id": 14,
+  "question": "Can I ask for technical help?",
+  "answer": "Yes. Contact the support team through the official communication channel provided by your internship coordinator."
+},
+{
+  "id": 15,
+  "question": "Which programming languages are used?",
+  "answer": "The programming languages depend on your internship domain and assigned projects. Common options include Python, Java and JavaScript."
+}
+]

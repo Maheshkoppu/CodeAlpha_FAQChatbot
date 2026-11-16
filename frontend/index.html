@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeAlpha FAQ Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>CodeAlpha FAQ Chatbot</h2>
+            <p>Your AI-powered assistant</p>
+            <button id="clear-chat">Clear Chat</button>
+        </div>
+
+        <div class="chat-box" id="chat-box">
+    <div class="bot-message">
+        Hello! Welcome to CodeAlpha. How can I help you today?
+    </div>
+
+    <div class="suggested-questions">
+        <button class="suggestion">What is CodeAlpha?</button>
+        <button class="suggestion">How can I register?</button>
+        <button class="suggestion">What internships are available?</button>
+        <button class="suggestion">How do I submit my project?</button>
+    </div>
+</div>
+
+        <div class="chat-input">
+            <input type="text" id="user-input"
+                   placeholder="Type your question...">
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
