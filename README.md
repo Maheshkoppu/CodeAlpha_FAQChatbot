@@ -58,7 +58,7 @@ CodeAlpha_FAQChatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Maheshkoppu/CodeAlpha_FAQChatbot.git
 ```
 
 ### 2. Open the backend folder
